@@ -1,16 +1,13 @@
-# bookly_app
+## Bookly App  
+**Duration**: 04/2024 – 06/2024  
+**Technologies**: Flutter, MVVM Architecture, Bloc Pattern, RESTful APIs  
 
-A new Flutter project.
+### Introduction
+Bookly is a Flutter-based mobile application that provides users with access to a wide range of free books. The app is designed with a focus on scalability, user experience, and performance.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+- Access a vast collection of free books.
+- Built using MVVM architecture for clean code and enhanced testability.
+- State management handled using the Bloc pattern.
+- Fetches book data via RESTful APIs.
+- Focused on delivering a user-friendly interface with smooth performance.
